@@ -30,16 +30,21 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 
 ## Usage
 
+If you have installed `create-autorepo` before, it is recommended to uninstall it first to ensure that you are using the latest version.
+
 ```sh
+yarn global remove create-autorepo
 yarn create autorepo
 ```
 
 ```sh
-npx create-autorepo
+npm uninstall -g create-autorepo
+npm create autorepo
 ```
 
 ```sh
-pnpx create-autorepo
+pnpm remove -g create-autorepo
+pnpm create autorepo
 ```
 
 <!-- auto footer start -->
