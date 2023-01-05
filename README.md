@@ -1,4 +1,4 @@
-<!-- auto header start -->
+<!--BEGIN HEADER-->
 <div id="top" align="center">
   <h1>create-autorepo</h1>
   <a href="https://npmjs.com/package/create-autorepo">
@@ -26,7 +26,7 @@ _DM me on [Twitter](https://twitter.com/bconnorwhite) if you have questions or s
 </a>
 
 ---
-<!-- auto header end -->
+<!--END HEADER-->
 
 ## Usage
 
@@ -47,7 +47,7 @@ pnpm remove -g create-autorepo
 pnpm create autorepo
 ```
 
-<!-- auto footer start -->
+<!--BEGIN FOOTER-->
 
 <br />
 
@@ -72,4 +72,4 @@ pnpm create autorepo
 <h2 id="license">License <a href="https://opensource.org/licenses/MIT"><img align="right" alt="license" src="https://img.shields.io/npm/l/create-autorepo.svg"></a></h2>
 
 [MIT](https://opensource.org/licenses/MIT)
-<!-- auto footer end -->
+<!--END FOOTER-->
