@@ -53,7 +53,7 @@ pnpm create autorepo
 
 <h2 id="dependencies">Dependencies<a href="https://www.npmjs.com/package/create-autorepo?activeTab=dependencies"><img align="right" alt="dependencies" src="https://img.shields.io/librariesio/release/npm/create-autorepo.svg"></a></h2>
 
-- [@autosoft/autorepo-api](https://www.npmjs.com/package/@autosoft/autorepo-api)
+- [@autosoft/autorepo-api](https://www.npmjs.com/package/@autosoft/autorepo-api): API for Autorepo.
 - [enquirer](https://www.npmjs.com/package/enquirer): Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases.
 
 
