@@ -35,14 +35,14 @@
     "release": "yarn version"
   },
   "dependencies": {
-    "@autosoft/autorepo-api": "^0.2.5",
+    "@autosoft/autorepo-api": "^0.2.6",
     "enquirer": "^2.3.6"
   },
   "devDependencies": {
     "@autosoft/eslint-config": "^1.0.2",
-    "@autosoft/jest-preset": "^1.0.2",
+    "@autosoft/jest-preset": "^1.0.3",
     "@autosoft/tsconfig": "^1.0.1",
-    "autobin": "^1.0.1",
+    "autobin": "^1.0.2",
     "npm-package-json-lint-config-auto": "^1.0.2"
   },
   "eslintConfig": {
