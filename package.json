@@ -35,7 +35,7 @@
     "release": "yarn version"
   },
   "dependencies": {
-    "@autosoft/autorepo-api": "^0.2.7",
+    "@autosoft/autorepo-api": "^0.2.8",
     "enquirer": "^2.3.6"
   },
   "devDependencies": {
