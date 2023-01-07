@@ -1,6 +1,6 @@
 {
   "name": "create-autorepo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Start a new project with autorepo",
   "main": ".auto/build/index.js",
   "author": "Connor White",
