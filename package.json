@@ -1,11 +1,13 @@
 {
   "name": "create-autorepo",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Start a new project with autorepo",
   "license": "MIT",
   "private": false,
   "author": "Connor White",
-  "contributors": ["Connor White"],
+  "contributors": [
+    "Connor White"
+  ],
   "homepage": "https://github.com/autosoftoss/create-autorepo#readme",
   "repository": {
     "type": "git",
