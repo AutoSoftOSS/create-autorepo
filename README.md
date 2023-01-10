@@ -56,16 +56,11 @@ pnpm create autorepo
 - [@autosoft/autorepo-api](https://www.npmjs.com/package/@autosoft/autorepo-api): API for Autorepo.
 - [enquirer](https://www.npmjs.com/package/enquirer): Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases.
 
-
 <br />
 
 <h3>Dev Dependencies</h3>
 
-- [@autosoft/eslint-config](https://www.npmjs.com/package/@autosoft/eslint-config): A base for projects that use ESLint.
-- [@autosoft/jest-preset](https://www.npmjs.com/package/@autosoft/jest-preset): A base for projects that use Jest.
-- [@autosoft/tsconfig](https://www.npmjs.com/package/@autosoft/tsconfig): A base for TypeScript projects.
-- [npm-package-json-lint-config-auto](https://www.npmjs.com/package/npm-package-json-lint-config-auto): NPM Package.json Lint Config
-
+- [autorepo](https://www.npmjs.com/package/autorepo): Autorepo abstracts away your dev dependencies, providing a single command to run all of your scripts.
 
 <br />
 
